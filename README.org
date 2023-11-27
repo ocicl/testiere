@@ -4,6 +4,6 @@ TDD-like dev for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://cicadas.surf/cgit/colin/testiere.git |
-| commit  | 4ade7d8                                          |
+| commit  | b4f0f51                                          |
 | systems | testiere                                         |
 |---------+--------------------------------------------------|
